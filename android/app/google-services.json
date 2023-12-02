@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527025660203",
+    "project_id": "serviceapp-fbc6b",
+    "storage_bucket": "serviceapp-fbc6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527025660203:android:58c36733e71d9e3d43a56e",
+        "android_client_info": {
+          "package_name": "com.anonymous.ServiceApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Y8tFgXm9ITXX82yWYkILNsFqhTjtiCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
